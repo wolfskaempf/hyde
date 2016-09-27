@@ -31,8 +31,6 @@
  * Update the foundational and global aspects of the page.
  */
 
-@import 'https://fonts.googleapis.com/css?family=Muli';
-
 html {
   font-family: Muli, Helvetica, Arial, sans-serif;
 }
@@ -81,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: Muli, sans-serif;
+  font-family: Muli, serif;
   font-size: 3.25rem;
 }
 
